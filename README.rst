@@ -12,8 +12,8 @@ Installation
 ::
 
     git clone https://github.com/VALR-Tech/valr-py.git
-	cd valr-py
-	python setup.py install
+    cd valr-py
+    python setup.py install
 
 
 
