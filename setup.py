@@ -71,7 +71,3 @@ setup(
     },
 )
 
-try:
-    from valr_python import *
-except :
-    pass
